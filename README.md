@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Ans</h1>   
-<h3 align="center">Soy estudiante en Tecnicatura en programación en la Universidad Tecnológica de Pacheco, vivo en Buenos Aires, Zona norte. Además, estoy haciendo realizando un curso de Developer backed con lenguaje #C (Actualmente nivel 3)</h3>
-<h3 align="center">I am a programming Technician student at the Technological University of Pacheco, I live in Buenos Aires, North Zone. In addition, I am doing a Developer backed course with #C language (Currently level 3)</h3>
+<h3 align="center">Soy estudiante en Tecnicatura en programación en la Universidad Tecnológica de Pacheco, vivo en Buenos Aires, Zona norte. Además</h3>
+<h3 align="center">I am a programming Technician student at the Technological University of Pacheco, I live in Buenos Aires, North Zone.</h3>
 
 - 🌱 I’m currently learning **.NET web, ASP, lenguaje #C**
 
